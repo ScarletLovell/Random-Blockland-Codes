@@ -5,7 +5,7 @@ $Camera::Custom = false; //Turn off the servercmd
 
 function serverCmdSetCameraCustom(%client, %dir,%dir1,%dir2, %dist,%dist1,%dist2, %angle, %rot)
 {
-    if(!%client.isSuperAdmin && $Camera::Custom == true)
+    if(!%client.isSuperAdmin || $Camera::Custom == false)
         return;
     if(%dir $= "reset")
         return %client.setControlObject(%player);
