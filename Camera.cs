@@ -1,10 +1,12 @@
 //Created by Anthonyrules144
 // You can use this for whatever you want, just try to give me credit.
 
+$Camera::Custom = false; //Turn off the servercmd
+
 function serverCmdSetCameraCustom(%client, %dir,%dir1,%dir2, %dist,%dist1,%dist2, %angle, %rot)
 {
-    //if(!%client.isSuperAdmin && %client.name !$= "ahead")
-    //    return; //Only SA's
+    if(!%client.isSuperAdmin && $Camera::Custom == true)
+        return;
     if(%dir $= "reset")
         return %client.setControlObject(%player);
     if(%dir $= "" || %dist $= "" || %angle $= "")
