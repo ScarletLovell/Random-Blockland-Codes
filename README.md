@@ -8,6 +8,7 @@ This is where I keep my codes that some people usually can't access and I really
 > ###### Camera - _Lets you edit the camera w/ rotation & angles_
 ###### Death - _Similar to TOB or V0002, adds death 'jokes'_
 ###### returnVar - _Upon use, returns what type of var you have._
+###### Tumble - _Makes your character... tumble_
 
 <hr>
 
