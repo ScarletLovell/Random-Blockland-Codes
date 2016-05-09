@@ -6,9 +6,8 @@ function serverCmdTumble(%client, %vel1, %vel2, %vel3) {
     %client.isTumbling = 1;
 }
 function serverCmdUnTumble(%client) {
-    if(!%client.isSuperAdmin || !%client.isTumbling)
-        return;
-    if(isObject(%player = %client.player)) {
+    if(%client.isTumbling) {
+        %client.isTumbling = 0;
         %client.createPlayer(%pos = %player.getPosition());
         return %player.delete();
     }
