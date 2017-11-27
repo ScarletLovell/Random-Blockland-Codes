@@ -1,0 +1,153 @@
+
+[Created by Anthonyrules144 - BL_ID 9999]
+Thank you for checking out my Watch_Dogs2 mod,
+
+Try not to go over 20 characters, the status or job may go over the GUI length
+
+When using multiple statuses with [], you can use <> for a sentenced status, such as `[<Hello there> Hi] young one`
+Each "multiple status" is chosen at random for players just like regular statuses are.
+
+Also keep in mind, do not say this mod was yours, it is not. You may own this modification and edit it, but please, give credit where it's due, thanks!
+
+
+
+[STATUS]
+Writes code for a living
+Owns multiple pets
+Goes jogging every day
+Dropped out of high school
+[<Doesn't have> Has] a college degree
+Trying to lose weight
+[<Tries not to> Tends] smoke a lot
+Wants to be a hacker
+Doesn't recycle
+Watches YouTube a lot
+Does game streaming online
+Lives with grandparents
+Likes playing games a lot
+Posts to social media a lot
+Uses SnapChat spectacles
+Owns a world record
+Created their own drone
+Is a drone racer
+Doesn't play video games
+[<Is part of> Dislikes] the LGBT community
+Owns over 400+ games
+[Needs Wants] a cigarette
+[Hates Loves] to go camping
+Wants a new job
+Doesn't eat breakfast
+[Hates Loves] to play Basketball
+Currently really flirty
+[Hates Loves] their job
+[Likes Loves] to hug trees
+Watches adult movies often
+Doesn't like being around plants
+Watches football daily
+[Loves Hates] to cook
+[<Doesn't like> Likes Hates] spiders
+Likes having pet spiders
+Drinks a lot of energy drinks
+Prefers to be vegan
+[Loves Hates] Paul Blart Mall Cop
+Farted in an elevator once
+Is Dyslexic
+Throws parties daily
+[<Tries to> Wants] be funny
+[Likes Loves Hates] cleaning
+[Plays Likes] the bongos
+Secretly wants to be a broom
+Likes to watch anime often
+Doesn't like anime
+Once hit someone with glasses
+[Prefers Wants] to be a bubble
+
+
+[INCOME&JOBS]
+No current job stated
+YouTuber - $7.92/Per 1k views
+Technician - $47,000/year
+Pediatrician - $185,000/year
+Therapist - $78,000/year
+Teacher - $62,000/year
+Author - $8.99/per copy
+Artist - $91,000/year
+Lawyer - $130,500/year
+Taxi Driver - $20/hour
+Photographer $65,000/year
+Chef - $74,000/year
+Cop - $55,000/year
+Game Designer - $60,000/year
+Farmer - $75,000/year
+Game Designer - $80,000/year
+Programmer - $85,000/year
+Hair Dresser - $24,000/year
+Model - $50,000/year
+Detective - $75,000/year
+Librarian - $60,000/year
+Pilot - $78,000/year
+Fire Fighter - $45,000/year
+Nurse - $35/hour
+Sales Person - $40,000/year
+Landscaper - $31,000/year
+Journalist - $55,000/year
+Flight Attendant - $25,000/year
+Bartender - $30,000/year
+Electrician - $40,000/year
+Welder - $50,000/year
+Engineer - $82,000/year
+Jeweler - $53,000/year
+Architect - $80,000/year
+Real Estate Agent - $54,000/year
+Wrestler - $50,000/year
+Maid - $22,000/year
+Retired
+
+
+[BOTNAMES]
+Evan
+Joshua
+Billy
+Bob
+James
+Kyle
+Crane
+Anthony
+Jason
+Joe
+Ed
+Edd
+Eddy
+George
+Yusef
+Jeff
+Matt
+Zane
+Jesse
+Robert
+Michael
+Victor
+Samuel
+Sammy
+Victoria
+Kylie
+Hannah
+Adel
+Fiona
+Brooke
+Britany
+Jacey
+Jackson
+Paige
+Denise
+Valery
+Hailey
+Trisha
+Sarah
+Susan
+Shannon
+Patricia
+Katelynn
+Heather
+Anne
+Consuela

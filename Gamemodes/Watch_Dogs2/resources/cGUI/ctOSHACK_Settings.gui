@@ -1,0 +1,79 @@
+//--- OBJECT WRITE BEGIN ---
+new GuiControl(ctOS_settings) {
+   profile = "GuiDefaultProfile";
+   horizSizing = "right";
+   vertSizing = "bottom";
+   position = "0 0";
+   extent = "640 480";
+   minExtent = "8 2";
+   enabled = "1";
+   visible = "1";
+   clipToParent = "1";
+
+   new GuiWindowCtrl() {
+      profile = "GuiWindowProfile";
+      horizSizing = "center";
+      vertSizing = "center";
+      position = "170 140";
+      extent = "300 200";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "1";
+      clipToParent = "1";
+      text = "ctOS_Settings [UnHaC_k Ab-L_e]";
+      maxLength = "255";
+      resizeWidth = "0";
+      resizeHeight = "0";
+      canMove = "1";
+      canClose = "1";
+      canMinimize = "0";
+      canMaximize = "0";
+      minSize = "50 50";
+      closeCommand = "canvas.popDialog(ctOS_settings);";
+
+      new GuiCheckBoxCtrl() {
+         profile = "GuiCheckBoxProfile";
+         horizSizing = "right";
+         vertSizing = "bottom";
+         position = "4 151";
+         extent = "277 30";
+         minExtent = "8 2";
+         enabled = "1";
+         visible = "1";
+         clipToParent = "1";
+         variable = "$ctOS_showForce";
+         text = "Forced to use \"Show ctOS\" before any other toggle?";
+         groupNum = "-1";
+         buttonType = "ToggleButton";
+      };
+      new GuiCheckBoxCtrl() {
+         profile = "GuiCheckBoxProfile";
+         horizSizing = "right";
+         vertSizing = "bottom";
+         position = "4 171";
+         extent = "140 30";
+         minExtent = "8 2";
+         enabled = "1";
+         visible = "1";
+         clipToParent = "1";
+         variable = "$ctOS_disabled";
+         text = "Completly disable ctOS?";
+         groupNum = "-1";
+         buttonType = "ToggleButton";
+      };
+      new GuiTextCtrl() {
+         profile = "HUDChatTextEditSize3Profile";
+         horizSizing = "right";
+         vertSizing = "bottom";
+         position = "4 22";
+         extent = "210 26";
+         minExtent = "8 2";
+         enabled = "1";
+         visible = "1";
+         clipToParent = "1";
+         text = "Created by Anthonyrules144";
+         maxLength = "255";
+      };
+   };
+};
+//--- OBJECT WRITE END ---

@@ -1,0 +1,84 @@
+//--- OBJECT WRITE BEGIN ---
+new GuiControl(ctOSHACK_VControls) {
+   profile = "GuiDefaultProfile";
+   horizSizing = "right";
+   vertSizing = "bottom";
+   position = "0 0";
+   extent = "640 480";
+   minExtent = "8 2";
+   enabled = "1";
+   visible = "1";
+   clipToParent = "1";
+
+   new GuiButtonCtrl(ctOS_VControlUp) {
+      profile = "GuiButtonProfile";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      position = "30 0";
+      extent = "30 30";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "0";
+      clipToParent = "1";
+      text = "^ ";
+      groupNum = "-1";
+      buttonType = "PushButton";
+   };
+   new GuiButtonCtrl(ctOS_VControlLeft) {
+      profile = "GuiButtonProfile";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      position = "0 30";
+      extent = "30 30";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "0";
+      clipToParent = "1";
+      text = "<";
+      groupNum = "-1";
+      buttonType = "PushButton";
+   };
+   new GuiButtonCtrl(ctOS_VControlRight) {
+      profile = "GuiButtonProfile";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      position = "60 30";
+      extent = "30 30";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "0";
+      clipToParent = "1";
+      text = ">";
+      groupNum = "-1";
+      buttonType = "PushButton";
+   };
+   new GuiButtonCtrl(ctOS_VControlCenter) {
+      profile = "GuiButtonProfile";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      position = "30 30";
+      extent = "30 30";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "1";
+      clipToParent = "1";
+      text = "?";
+      groupNum = "-1";
+      buttonType = "PushButton";
+   };
+   new GuiButtonCtrl(ctOS_VControlDown) {
+      profile = "GuiButtonProfile";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      position = "30 60";
+      extent = "30 30";
+      minExtent = "8 2";
+      enabled = "1";
+      visible = "0";
+      clipToParent = "1";
+      text = "v";
+      groupNum = "-1";
+      buttonType = "PushButton";
+   };
+};
+//--- OBJECT WRITE END ---

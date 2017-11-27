@@ -1,5 +1,4 @@
-//Created by Anthonyrules144
-// You can use this for whatever you want, just try to give me credit.
+// I don't remember why I made this.
 
 function returnVar(%var, %t)
 {
