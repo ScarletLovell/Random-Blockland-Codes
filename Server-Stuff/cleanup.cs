@@ -1,3 +1,5 @@
+// 2016
+
 function cleanupEmitters() {
     for(%i=0;%i < missionCleanup.getCount();%i++) {
         %m = missionCleanup.getObject(%i);

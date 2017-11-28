@@ -1,3 +1,5 @@
+// 2017
+
 function pingScore() {
     cancel($pingScore);
     for(%i=0;%i < clientgroup.getcount();%i++)

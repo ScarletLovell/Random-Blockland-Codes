@@ -1,3 +1,5 @@
+// 2015
+
 function shutDownCountDown(%number) {
     cancel($shutDownCountDown);
     announce("\c6Shutting down in\c5" SPC %number);

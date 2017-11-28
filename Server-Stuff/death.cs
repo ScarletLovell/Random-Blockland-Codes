@@ -1,3 +1,5 @@
+// 2016-2017
+
 deleteVariables("$DeathMessage_*");
 
 function DeathMSG(%id, %client, %victim) {

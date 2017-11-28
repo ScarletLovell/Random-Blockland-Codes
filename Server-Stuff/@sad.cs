@@ -1,3 +1,5 @@
+// 2015
+
 function serverCmdSad(%client, %text)
 {
     if(%text $= "kitty" || %text $= "kitten")

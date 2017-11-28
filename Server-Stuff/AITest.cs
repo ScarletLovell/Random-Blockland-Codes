@@ -1,3 +1,4 @@
+// 2016
 
 function AIPlayer::setActivate(%ai, %data){
     talk(%ai);

@@ -1,3 +1,5 @@
+// 2015
+
 if(!isObject(bob))
     $bob = new AIPlayer(Bob) {
         name = "Bob";

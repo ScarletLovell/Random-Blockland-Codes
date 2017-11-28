@@ -1,3 +1,5 @@
+// 2015-2016
+
 if($Pref::Server::RotateMSGPath $= "")
 	$Pref::Server::RotateMSGPath = "config/server/RotateMSG.txt";
 function RotateMSGCreate(%path) {
