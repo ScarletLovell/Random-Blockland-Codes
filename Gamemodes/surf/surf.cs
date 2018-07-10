@@ -1,3 +1,6 @@
+// WARNING. This requires:
+// ../../Server-Stuff/onPlayerProcessTick.cs
+
 function BHop_Schedule() {
     if(isEventPending($BHop_Schedule))
         cancel($BHop_Schedule);
