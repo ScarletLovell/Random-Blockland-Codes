@@ -1,0 +1,7 @@
+I'm okay, %1.
+I'm okay.
+Eh.
+I'm not sure, %1.
+I'm not sure.
+All this walking has got me tired, %1.
+Walking around is tiring, %1.

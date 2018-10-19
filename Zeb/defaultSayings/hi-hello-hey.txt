@@ -1,0 +1,12 @@
+Hi!
+Hi.
+Hi %1.
+Hello!
+Hello.
+Hello %1.
+Hey there, %1.
+Hey there, %1!
+What do you need, %1?
+Need anything, %1?
+What's up, %1.
+What's up, %1!
