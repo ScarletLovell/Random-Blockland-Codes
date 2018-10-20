@@ -1,5 +1,5 @@
 // warning: you need sqlite
-// you can find my version at: https://github.com/Anthonyrules144/BLsql
+// you can find my version at: https://github.com/Ashleyz4/BLsql
 
 package newChat {
     function newPlayerListGui::update(%this, %cl, %name, %BL_ID, %trust, %admin, %score) {
