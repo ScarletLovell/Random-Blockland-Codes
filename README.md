@@ -8,6 +8,14 @@
 
 ___
 
+### How to download one file?:
+##### 
+* Click the file
+* Click raw. If it's a zip file it will instantly download, or just click Download.
+* * If the file isn't a zip file, right click raw and press Save Link As
+
+___
+
 This is where I will keep completely random gamemodes, codes, little server scripts, and more that I'm willing to release <br/>
 All the codes will be released with a tag inside them showing what year they were created.
 
