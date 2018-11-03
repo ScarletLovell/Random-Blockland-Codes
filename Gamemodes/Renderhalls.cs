@@ -1,3 +1,5 @@
+// 2014
+
 if($GameModeArg !$= "Add-Ons/GameMode_Renderhalls/gamemode.txt")
 	return;
 
