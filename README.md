@@ -3,6 +3,9 @@
 ### **WARNING**:
 ###### These codes might be very old, not work properly (mostly gamemodes only though), have issues, ect.
 
+### NOTE:
+###### For stuff in zip files, I didn't edit the files for the date, but you can see the date's by when they were created / modififed. For other files, I've put a date in the file.
+
 ___
 
 This is where I will keep completely random gamemodes, codes, little server scripts, and more that I'm willing to release <br/>
