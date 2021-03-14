@@ -1,0 +1,3 @@
+Title: WeaponSwap
+Author: cutezyash
+Let's you swap weapons much easier!
